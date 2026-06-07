@@ -1,0 +1,108 @@
+[
+  {
+    "email": "sereeeegina@gmail.com",
+    "password": "$2b$10$y30Fg214qsxQMnNiX2SUKeSqyARsO4O8s2pSDLRVqVGoH6xAeFSl6",
+    "gameData": {
+      "history": [
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "X",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "X",
+          null,
+          null,
+          null,
+          "O",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "X",
+          null,
+          null,
+          null,
+          "O",
+          null,
+          null,
+          null,
+          "X"
+        ],
+        [
+          "X",
+          null,
+          null,
+          null,
+          "O",
+          null,
+          "O",
+          null,
+          "X"
+        ],
+        [
+          "X",
+          null,
+          null,
+          null,
+          "O",
+          null,
+          "O",
+          "X",
+          "X"
+        ],
+        [
+          "X",
+          null,
+          "O",
+          null,
+          "O",
+          null,
+          "O",
+          "X",
+          "X"
+        ]
+      ],
+      "currentMove": 6
+    }
+  },
+  {
+    "email": "test1@gmail.com",
+    "password": "$2b$10$J9pUnu0fXOSOth/xFAarBOntBRE78y6FStVJcwD5x5Nb2JKZt3XbG",
+    "gameData": {
+      "history": [
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ],
+      "currentMove": 0
+    }
+  }
+]
