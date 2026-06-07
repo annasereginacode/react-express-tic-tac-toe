@@ -133,4 +133,4 @@ Game progress is automatically saved after every move and restored when the user
 
 ## Author
 
-Created as a full-stack learning project using React and Express.
+Created by Anna Seregina as a portfolio project demonstrating React, Express, JWT authentication, password hashing, and server-side data persistence.
